@@ -1,0 +1,1 @@
+{"id":"c459c9f2-8903-48c5-9a62-9b63b5cf623f","space":41932,"runtime":"nodejs14.x","name":"generic-rest-api","path":"l08q2t","project":"a03r3ern","account":"144798365827","region":"eu-central-1","deps":["body-parser@^1.20.1","cors@^2.8.5","deta@^1.1.0","express@^4.18.2","helmet@^6.0.1","morgan@^1.10.0","uuidv4@^6.2.13"],"envs":null,"public":true,"log_level":"debug","cron":""}
